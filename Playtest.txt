@@ -1,0 +1,3 @@
+Playtest Comments: 
+
+Playtesters said that the cat following you is a cool feature, and one noted that they feel naturally drawn to it, "because it's a cat". Most thought that the healing mechanic tied to the cat is good, but some were mixed on the healing radius. Some ideas suggested where the cat itself taking damage, or maybe the cat itself attacks. Perhaps a mechanic where if the cat takes too many hits, it is temporarily disabled? I would like to implement this mechanic as the main goal is for the player to feel connected to the cat. 

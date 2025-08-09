@@ -1,0 +1,19 @@
+
+Reviewer Full Name: Alberto Alonzo
+
+
+Feature 1: Create A Cat Follower
+
+Review Step 1: Overall assessment of the feature:
+Cat Companion that follows you.
+
+*Review Step 2 all comments go in the code files*
+
+Review Step 3: List of code files and summary
+
+Feature 2:Cat Healing Mechanic
+
+Review Step 1: Overall assessment of the feature:
+Cat Heals you if you are within the radius
+
+ 

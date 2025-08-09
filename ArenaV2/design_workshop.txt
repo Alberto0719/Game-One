@@ -1,0 +1,36 @@
+Four Character Descriptions:
+- A janitor who can hop between dimensions and loves singing.
+- A writer who has a deep disdain for fire
+- A knight who has sworn to protect his Queen's cat
+- A turtle that is really fast with an unbreakable shell
+
+Four Scenario Descriptions: 
+- A crumbling "mall" that leads to different realms
+- A lodge in the middle of a deep forest
+- A massive gothic castle filled with the supernatural
+- On an alien plant with various biomes
+
+Four Mechanic Descriptions:
+- "Mopping" a spot lets you quick travel to that spot
+- Floating balls of water than you can shoot to put out fire
+- Petting the cat gives you a buff
+- "Hardening" your shell protects u against all attacks
+
+
+Initial Game Design:
+- A fallen knight who was once loyal to his kingdom has returned to see it in ruins. All that remains in the rubble of the throne room is the Queen's cat who he would always play with. He must uncover the secrets of the castle and what caused it to fall, while being accompanied by the cat which gives him a strange radiant power.
+
+- A janitor that frequently plays his Walkman while working enters his usual mall for work but notices it is very different from what he is used to. Any usual spots he frequents are distorted and "off" with strange supernatural happenings going inside them. He finds mopping the floor allows him to teleport to that spot whenever he wishes.
+
+User Focus: 
+- Fallen Knight with Cat Idea
+1. What is the core feeling you want players to experience?
+Deep companionship with the cat.
+
+2. Three in-game experiences that create this feeling.
+- The cat following you, the cat reviving you, the cat grating you a blessing.
+
+3. What mechanics enable these experiences?
+A  buff that is granted to you by the cat.
+An eventual revive mechanic with the cat
+An eventual cat-assisted combat system.
